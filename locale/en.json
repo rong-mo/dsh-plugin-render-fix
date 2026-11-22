@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Plugins render fix",
+    "description": "Fixes the sidebar Plugins page going permanently blank after a render crash (missing URL.canParse in Android WebView 116): automatic polyfill, recovery card and crash log. / 修复侧边栏「插件」页因旧版 WebView 缺少 URL.canParse 而崩溃变空白的问题，附带自动 polyfill、恢复卡片与崩溃日志。"
+  }
+}
