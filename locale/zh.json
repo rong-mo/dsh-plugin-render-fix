@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "插件渲染修复",
+    "description": "侧边栏「插件」页因旧版 WebView 缺少 URL.canParse 而渲染崩溃后不再永久空白：自动 polyfill，并提供恢复卡片与崩溃日志。 / Repairs the permanently blank Plugins page caused by the missing URL.canParse API in older WebViews, with a polyfill, a recovery card and a crash log."
+  }
+}
