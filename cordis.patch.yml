@@ -1,0 +1,4 @@
+# One Host row: a crash-log route. The visible guard lives in ./client.
+- insert:
+    - id: dsh-plugin-render-fix
+      name: 'dsh-plugin-render-fix'
